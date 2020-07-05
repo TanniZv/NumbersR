@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NumbersR.FirstPage"
+             Title ="FirstPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="Label1" Text=""
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry x:Name="Entry1" Placeholder="введите число" IsReadOnly="true"/>
+            <Button x:Name="Button1" Text="1" BackgroundColor="Aquamarine" Clicked="ButtonOneClick"/>
+            <Button x:Name="Button2" Text="2" Clicked="ButtonTwoClick"/>
+            <Button x:Name="Button3" Text="3" Clicked="ButtonThreeClick"/>
+            <Button x:Name="Button4" Text="4" Clicked="ButtonFourClick"/>
+            <Button x:Name="Button5" Text="5" Clicked="ButtonFiveClick"/>
+            <Button x:Name="Button6" Text="6" Clicked="ButtonSixClick"/>
+            <Button x:Name="Button7" Text="7" Clicked="ButtonSevenClick"/>
+            <Button x:Name="Button8" Text="8" Clicked="ButtonEightClick"/>
+            <Button x:Name="Button9" Text="9" Clicked="ButtonNineClick"/>
+            <Button x:Name="Button0" Text="0" Clicked="ButtonZiroClick"/>
+            <Button x:Name="ButtonDo" Text="переверни" Clicked="ButtonDoClick"/>
+            <Button x:Name="ButtonDelete" Text="удалить" Clicked="ButtonDeleteClick"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

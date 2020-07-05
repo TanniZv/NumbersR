@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\bin\Debug\netstandard2.0\NumbersR.deps.json
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\bin\Debug\netstandard2.0\NumbersR.dll
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\bin\Debug\netstandard2.0\ref\NumbersR.dll
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\bin\Debug\netstandard2.0\NumbersR.pdb
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\NumbersR.csprojAssemblyReference.cache
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\NumbersR.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\NumbersR.AssemblyInfo.cs
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\NumbersR.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\NumbersR.dll
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\ref\NumbersR.dll
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\NumbersR.pdb
+C:\Users\User\Desktop\xamarin1\NumbersR\NumbersR\NumbersR\obj\Debug\netstandard2.0\FirstPage.xaml.g.cs
